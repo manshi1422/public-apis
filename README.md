@@ -57,6 +57,7 @@ The Public APIs repository is manually curated by community members like you and
 * [Development](#development)
 * [Dictionaries](#dictionaries)
 * [Documents & Productivity](#documents--productivity)
+* [DummyJSON with Auth](#dummyjson-auth)
 * [Email](#email)
 * [Entertainment](#entertainment)
 * [Environment](#environment)
@@ -647,6 +648,13 @@ API | Description | Auth | HTTPS | CORS |
 | [WakaTime](https://wakatime.com/developers) | Automated time tracking leaderboards for programmers | No | Yes | Unknown |
 | [Zube](https://zube.io/docs/api) | Full stack project management | `OAuth` | Yes | Unknown |
 
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+### DummyJSON with Auth
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Login and Get Token]([https://airtable.com/api](https://dummyjson.com/docs/auth#auth-login)) | provides details of user auth | No | Yes | No |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
